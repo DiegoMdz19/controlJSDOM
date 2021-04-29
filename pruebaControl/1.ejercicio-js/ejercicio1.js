@@ -1,4 +1,4 @@
-'use strict';
+
 const getUsers = async (num) => {
     const newUsers = [];
     try {
